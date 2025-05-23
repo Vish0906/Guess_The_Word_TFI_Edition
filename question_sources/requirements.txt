@@ -1,0 +1,9 @@
+pandas
+groq
+wikipedia
+wikipediaapi
+Groq
+langchain
+langchain-core
+langchain-community
+wikipedia-api
